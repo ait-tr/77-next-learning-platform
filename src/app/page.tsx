@@ -1,3 +1,4 @@
+import { HeroSection } from "@/components/hero-section";
 import {
   Accordion,
   AccordionItem,
@@ -26,6 +27,8 @@ const benefitItems = [
 export default function Home() {
   return (
     <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
+      <HeroSection />
+
       <section>
         <h2 className="text-center text-4xl mb-3">Benifits</h2>
 
