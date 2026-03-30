@@ -6,7 +6,10 @@ export const coursesTable = pgTable("courses", {
   description: varchar({ length: 255 }).notNull(),
 });
 
-// groupsTable
+export const groupsTable = pgTable("groups", {
+  id: integer().primaryKey().generatedAlwaysAsIdentity(),
+  name: varchar({ length: 255 }).notNull(),
+});
 
 // мы можем сгенерировать файлы с миграциями
 // npx drizzle-kit generate

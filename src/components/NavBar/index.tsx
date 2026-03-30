@@ -8,6 +8,8 @@ export default function NavBar() {
       <Link href="/products">Products</Link>
       <Link href="/categories">Categories</Link>
       <Link href="/grids">Grids</Link>
+      <Link href="/groups">Groups</Link>
+      <Link href="/groups/new">Add group</Link>
       <Link href="/">Home</Link>
     </nav>
   );
