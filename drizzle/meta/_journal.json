@@ -5,36 +5,8 @@
     {
       "idx": 0,
       "version": "7",
-      "when": 1774607257984,
-      "tag": "0000_eager_wildside",
-      "breakpoints": true
-    },
-    {
-      "idx": 1,
-      "version": "7",
-      "when": 1774857182328,
-      "tag": "0001_gifted_veda",
-      "breakpoints": true
-    },
-    {
-      "idx": 2,
-      "version": "7",
-      "when": 1774943571948,
-      "tag": "0002_optimal_hobgoblin",
-      "breakpoints": true
-    },
-    {
-      "idx": 3,
-      "version": "7",
-      "when": 1775035783196,
-      "tag": "0003_shocking_true_believers",
-      "breakpoints": true
-    },
-    {
-      "idx": 4,
-      "version": "7",
-      "when": 1775040464774,
-      "tag": "0004_medical_surge",
+      "when": 1775549246939,
+      "tag": "0000_powerful_abomination",
       "breakpoints": true
     }
   ]

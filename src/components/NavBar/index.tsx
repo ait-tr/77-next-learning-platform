@@ -12,6 +12,7 @@ export default function NavBar() {
       <Link href="/groups">Groups</Link>
       <Link href="/groups/new">Add group</Link>
       <Link href="/todos">Todos</Link>
+      <Link href="/notes">Notes</Link>
       <Link href="/">Home</Link>
       <AuthButton />
     </nav>
